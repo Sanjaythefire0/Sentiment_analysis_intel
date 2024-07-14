@@ -1,2 +1,3 @@
 # Sentiment_analysis_intel
 Contains the source codes and all other resources for the sentiment analysis project.
+We have developed two approaches for performing sentiment analysis on reviews of Intel products: one using a VADER model and the other utilizing a pretrained BERT model. Additionally, we have created a Power BI dashboard to analyze the sentiment contributions of different processors offered by Intel. This project aims to provide insights into the performance of Intel products over the past years and to understand customer perceptions. It will help us gain valuable insights into how customers perceive Intel products.
